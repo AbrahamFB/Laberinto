@@ -1,0 +1,2 @@
+﻿Source.obj : error LNK2005: ya se definió main en Main.obj
+C:\Users\afb19\OneDrive\BENEMÉRITA UNIVERSIDAD AUTÓNOMA DE PUEBLA\SEGUNDO SEMESTRE\Programación Orientada a Objetos 1\Proyecto Final\Project1\x64\Debug\Project1.exe : fatal error LNK1169: se encontraron uno o más símbolos definidos simultáneamente
